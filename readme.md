@@ -8,7 +8,7 @@ Shopify
 ### Time Taken
 - 16 hours
 
-## [Deployment Link](https://anusha-shopify.netlify.app/)
+## [Deployment Link](https://anushad-shopify.netlify.app/)
 
 
 ### Output
